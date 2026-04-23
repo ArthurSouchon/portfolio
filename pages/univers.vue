@@ -210,7 +210,7 @@ useSeoMeta({
               <div class="h-px bg-slate-200 dark:bg-slate-800" />
               <p class="text-slate-600 dark:text-slate-400 leading-relaxed italic">{{ t('univers.football.desc2') }}</p>
               <div class="flex flex-wrap gap-2 pt-2">
-                <span v-for="tag in ['Collectif', 'Lecture du jeu', 'Régularité', 'Dépassement de soi']" :key="tag"
+                <span v-for="tag in ['Amitié', 'PSG', 'Five', 'Passion']" :key="tag"
                   class="px-2.5 py-1 rounded-lg bg-sky-500/10 border bg-sky-500/20 text-sky-400 text-xs font-medium">
                   {{ tag }}
                 </span>

@@ -11,23 +11,23 @@ useSeoMeta({
 const cases = ['c1', 'c2', 'c3', 'c4']
 
 const caseIcons = [
-  'i-heroicons-arrow-path',
-  'i-heroicons-sparkles',
-  'i-heroicons-presentation-chart-line',
-  'i-heroicons-funnel',
+  'i-heroicons-book-open',        // Documentation API
+  'i-heroicons-phone',               // WhatsApp
+  'i-heroicons-banknotes',        // Relances impayés
+  'i-heroicons-globe-alt',        // Portfolio
 ]
 
 const caseGradients = [
   'from-amber-500/10 to-orange-500/10 border-amber-500/20',
-  'from-violet-500/10 to-purple-500/10 border-violet-500/20',
   'from-emerald-500/10 to-teal-500/10 border-emerald-500/20',
+  'from-violet-500/10 to-purple-500/10 border-violet-500/20',
   'from-blue-500/10 to-indigo-500/10 border-blue-500/20',
 ]
 
 const caseIconColors = [
   'text-amber-400 bg-amber-500/10',
-  'text-violet-400 bg-violet-500/10',
   'text-emerald-400 bg-emerald-500/10',
+  'text-violet-400 bg-violet-500/10',
   'text-blue-400 bg-blue-500/10',
 ]
 </script>
@@ -49,6 +49,7 @@ const caseIconColors = [
         <div
           v-for="(cas, i) in cases"
           :key="cas"
+          :id="cas"
           v-motion
           :initial="{ opacity: 0, y: 40 }"
           :visibleOnce="{ opacity: 1, y: 0, transition: { duration: 500, delay: i * 80 } }"

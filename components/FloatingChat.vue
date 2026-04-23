@@ -143,7 +143,7 @@ watch(messages, async () => {
         <div class="flex items-center justify-between px-4 py-3 border-b border-slate-300/60 dark:border-slate-700/60 bg-slate-100/50 dark:bg-slate-800/50">
           <div class="flex items-center gap-2.5">
             <div class="relative">
-              <img src="/avatar.png" alt="Arthur" class="w-8 h-8 rounded-full object-cover" />
+              <img src="/avatar.png" alt="Arthur" class="w-[46px] h-14 rounded-2xl object-cover" />
               <span class="absolute -bottom-0.5 -right-0.5 w-2.5 h-2.5 rounded-full bg-emerald-500 border-2 border-slate-200 dark:border-slate-800 online-dot" />
             </div>
             <div>

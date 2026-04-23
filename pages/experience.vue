@@ -73,7 +73,7 @@ const jobIcons = [
                 </div>
 
                 <!-- Description -->
-                <p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed mb-4">
+                <p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed mb-4 whitespace-pre-line">
                   {{ t(`experience.jobs.${job}.desc`) }}
                 </p>
 

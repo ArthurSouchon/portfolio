@@ -25,7 +25,7 @@ const tools = [
 ]
 
 const serviceIcons = ['i-heroicons-bolt', 'i-heroicons-cpu-chip', 'i-heroicons-chart-bar']
-const caseIcons = ['i-heroicons-arrow-path', 'i-heroicons-sparkles', 'i-heroicons-presentation-chart-line', 'i-heroicons-funnel']
+const caseIcons = ['i-heroicons-book-open', 'i-heroicons-phone', 'i-heroicons-banknotes', 'i-heroicons-globe-alt']
 </script>
 
 <template>
@@ -162,7 +162,7 @@ const caseIcons = ['i-heroicons-arrow-path', 'i-heroicons-sparkles', 'i-heroicon
             :visibleOnce="{ opacity: 1, y: 0, transition: { duration: 400, delay: i * 80 } }"
           >
             <NuxtLink
-              :to="localePath('/realisations')"
+              :to="`${localePath('/realisations')}#${key}`"
               class="group block h-full p-5 rounded-xl bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:border-slate-300 dark:hover:border-slate-700 transition-colors duration-200"
             >
               <div class="flex items-start gap-3 mb-3">

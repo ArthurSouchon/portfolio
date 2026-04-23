@@ -113,81 +113,79 @@
     "meta_desc": "Arthur Souchon's career: freelance AI, product manager, automation ops.",
     "badge": "Career",
     "title": "My experience",
-    "subtitle": "Five years at the intersection of product, AI and operations.",
+    "subtitle": "Five experiences at the crossroads of product, tech and data.",
     "skills_label": "Key skills",
     "jobs": {
       "j1": {
-        "title": "Freelance — AI, Automation & Product Ops",
-        "company": "Independent",
-        "period": "Jan. 2024 — present",
-        "desc": "Consulting and delivery missions for startups and SMEs: business workflow automation, AI project scoping, fractional product management. Main stack: n8n, Make, Claude, GPT-4, Notion.",
+        "title": "API Product Owner",
+        "company": "Numberly",
+        "period": "Jan. 2025 — Present",
+        "desc": "Numberly Martech Platform (SaaS CRM Automation) used by key account clients to manage and send their multichannel communication campaigns.\n\nI manage the product backlog, write functional and technical specs, and take part in feature testing.\n\nI automate internal processes via N8N with measurable productivity gains. I also led the development of the platform's API layer, as well as the creation from scratch of the API documentation website — from design to launch.",
         "skills": [
-          "n8n",
-          "Make",
-          "Claude API",
-          "GPT-4",
-          "Product Management",
-          "AI Specs",
-          "Notion"
+          "Product Owner",
+          "N8N",
+          "API",
+          "Backlog",
+          "Specs",
+          "SaaS",
+          "CRM"
         ]
       },
       "j2": {
-        "title": "Lead AI Product Manager",
-        "company": "Kara Platform — HR SaaS Scale-up",
-        "period": "Nov. 2022 — Dec. 2023",
-        "desc": "Led the development of an AI feature suite (matching, scoring, JD generation) on a B2B HR platform. Managed a team of 8, quarterly roadmap, go-to-market.",
+        "title": "Integration Project Manager",
+        "company": "Shippeo",
+        "period": "Sept. 2024 — Dec. 2024",
+        "desc": "Shippeo is a real-time transport visibility platform.\n\nMy mission: connecting the TMS (Transport Management Systems) of key accounts like Amazon with carriers' systems (GLS, DPD).\n\nI automated two integration processes via Google Sheets, reducing manual interventions, and handled API monitoring to ensure data flow continuity.",
         "skills": [
-          "Product Roadmap",
-          "Generative AI",
-          "NLP",
-          "Agile",
-          "OKRs",
-          "Go-to-market",
-          "B2B SaaS"
+          "TMS Integrations",
+          "APIs",
+          "Automation",
+          "GSheet",
+          "Monitoring",
+          "Logistics"
         ]
       },
       "j3": {
-        "title": "Automation Ops Manager",
-        "company": "Paytop — Fintech",
-        "period": "Mar. 2021 — Oct. 2022",
-        "desc": "Designed and deployed the automation infrastructure for internal operations: KYC, customer onboarding, regulatory reporting. Reduced manual processing time by 65%.",
+        "title": "Product Owner",
+        "company": "Ekwateur",
+        "period": "Sept. 2022 — Dec. 2023",
+        "desc": "Apprenticeship at Ekwateur, a green energy supplier.\n\nI led the evolution of an automated client debt follow-up software: user needs analysis, task prioritisation on JIRA, and technical spec writing.\n\nI coordinated between business teams and developers, owning the product vision across the full delivery cycle.",
         "skills": [
-          "Zapier",
-          "Make",
-          "Process design",
-          "KYC",
-          "Compliance ops",
-          "Airtable",
-          "REST APIs"
+          "Product Owner",
+          "JIRA",
+          "Backlog",
+          "Specs",
+          "Agile",
+          "Automation"
         ]
       },
       "j4": {
-        "title": "Product Owner",
-        "company": "Novell Digital — Product Agency",
-        "period": "Sep. 2019 — Feb. 2021",
-        "desc": "PO on multiple simultaneous client projects (e-commerce, SaaS, mobile apps). Writing user stories, sprint facilitation, liaison between clients and technical teams.",
+        "title": "Data Analyst",
+        "company": "Deloitte",
+        "period": "Jun. 2021 — Nov. 2021",
+        "desc": "Internship at Deloitte within a data team.\n\nI conducted NLP analyses for semantic clustering of CVs, enabling better profile categorisation.\n\nI also automated invoice statement processing in Python for audit engagements, and built visualisation dashboards with Tableau and PowerBI.",
         "skills": [
-          "Scrum",
-          "User stories",
-          "JIRA",
-          "Figma",
-          "User testing",
-          "Mobile",
-          "E-commerce"
+          "Python",
+          "NLP",
+          "Tableau",
+          "PowerBI",
+          "Data visualisation",
+          "Automation"
         ]
       },
       "j5": {
-        "title": "Digital Project Manager",
-        "company": "Altea Conseil — Consulting Firm",
-        "period": "Sep. 2017 — Aug. 2019",
-        "desc": "Led digital transformation projects for major enterprise clients (retail, industry). Digital maturity audits, change management, collaborative tools deployment.",
+        "title": "Web Developer",
+        "company": "FK Agency",
+        "period": "Jun. 2020 — Oct. 2020",
+        "desc": "Internship in web development at a digital agency.\n\nI developed Front-End interfaces in HTML, CSS and JavaScript for agency clients, while working on SEO optimisation and emailing strategies.\n\nI also implemented web scraping with Python (BeautifulSoup) to collect and structure data for client projects.",
         "skills": [
-          "Digital transformation",
-          "Change management",
-          "Enterprise",
-          "Microsoft 365",
-          "Power BI",
-          "Workshops"
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "SEO",
+          "Python",
+          "BeautifulSoup",
+          "Emailing"
         ]
       }
     }
@@ -195,72 +193,72 @@
   "realisations": {
     "meta_title": "Projects — Arthur Souchon",
     "meta_desc": "Concrete client cases: automation, AI, product ops. Problem → Solution → Impact.",
-    "badge": "Client cases",
+    "badge": "Projects",
     "title": "Projects",
-    "subtitle": "Real projects, measurable results.",
+    "subtitle": "Real projects, from problem to result.",
     "problem": "Problem",
     "solution": "Solution",
     "impact": "Impact",
     "stack_label": "Stack",
     "cases": {
       "c1": {
-        "title": "Client onboarding automation",
-        "context": "B2B SaaS — 50 to 200 employees",
-        "role": "Automation Engineer",
-        "problem": "The client onboarding process was entirely manual: 6 steps, 3 different tools, 4 hours of processing per file. Data entry errors and delays were degrading the client experience.",
-        "solution": "Design and deployment of a complete n8n workflow: automatic trigger upon contract signature, access creation, email sequence dispatch, Slack notification, CRM update.",
-        "impact": "−80% processing time (from 4h to 45min). Zero data entry errors. Customer satisfaction +18pts on NPS.",
+        "title": "API Documentation Website",
+        "context": "Numberly - SaaS CRM Automation",
+        "role": "Product Manager",
+        "problem": "No API documentation existed. Clients and partners had to contact internal teams to understand available endpoints, slowing down integrations and overwhelming support.",
+        "solution": "Built an API documentation website from scratch: information architecture, stack selection, spec writing, dev team coordination through to launch.",
+        "impact": "Full client autonomy on API integration. Reduced support tickets related to technical questions. Better platform adoption.",
         "stack": [
-          "n8n",
-          "HubSpot",
+          "Nuxt",
+          "REST API",
+          "Swagger",
           "Notion",
-          "Slack",
-          "Stripe"
+          "Figma"
         ]
       },
       "c2": {
-        "title": "Internal AI assistant for a logistics team",
-        "context": "Mid-size logistics company — 300 employees",
-        "role": "AI Product Manager",
-        "problem": "Field teams were losing 2h/day searching for information across scattered documents (procedures, rates, contacts). No centralized tool, no RAG in place.",
-        "solution": "Full project scoping: model selection (Claude Sonnet), document corpus definition, interface specs, development steering with the internal team, testing and deployment.",
-        "impact": "+40% operational efficiency on document queries. >80% adoption within 3 weeks.",
+        "title": "WhatsApp, un nouveau canal de communication",
+        "context": "Numberly - SaaS CRM Automation",
+        "role": "API Product Owner",
+        "problem": "Numberly clients sent campaigns only via email and SMS. The absence of WhatsApp represented a commercial shortfall and a limitation against market expectations.",
+        "solution": "Led the development of the WhatsApp channel on the Numberly Martech Platform: spec writing, WhatsApp Business API integration, testing coordination and production deployment.",
+        "impact": "New channel available to all clients. New commercial opportunities and better engagement across multichannel campaigns.",
         "stack": [
-          "Claude API",
-          "RAG",
+          "WhatsApp Business API",
+          "N8N",
           "Notion",
-          "Confluence",
-          "Next.js"
+          "Postman",
+          "Jira"
         ]
       },
       "c3": {
-        "title": "Product ops restructuring",
-        "context": "E-commerce scale-up — Series A",
+        "title": "Automated debt follow-up product",
+        "context": "Ekwateur - Fournisseur d'énergie verte",
         "role": "Product Owner",
-        "problem": "The product roadmap was driven by gut feeling. No OKRs, no prioritization ritual, chaotic sprint planning. Declining velocity, team frustration.",
-        "solution": "Implementation of a complete PM framework: quarterly OKRs, automated RICE scoring in Notion, weekly rituals, velocity dashboard. Reporting automation via Make.",
-        "impact": "+30% sprint velocity in 2 months. Backlog reduced by 60%. Team aligned on priorities.",
+        "problem": "The debt follow-up process was manual, time-consuming and error-prone. No automatic prioritisation, no centralised tracking, teams working in silos.",
+        "solution": "Automated debt follow-up software. Operations teams could launch follow-up batches directly from the interface. Backlog management, technical spec writing and coordination between business teams and developers.",
+        "impact": "Full automation of the follow-up process, productivity gains for the debt recovery team.",
         "stack": [
-          "Notion",
-          "Make",
-          "Linear",
-          "Figma",
-          "Miro"
+          "Product Backlog",
+          "QA",
+          "Python",
+          "Confluence",
+          "SQL"
         ]
       },
       "c4": {
-        "title": "AI lead qualification pipeline",
-        "context": "B2B SME — Professional services",
-        "role": "Automation Engineer",
-        "problem": "The sales team spent 3h/day manually qualifying inbound leads: website analysis, sector, size, potential. Inaccurate qualification, loss of hot leads.",
-        "solution": "Complete automated pipeline: data scraping and enrichment, AI scoring via GPT-4, automatic assignment to the right salesperson, CRM record creation with generated summary.",
-        "impact": "+25% conversion rate. −3h/day for the sales team. Positive ROI in < 6 weeks.",
+        "title": "This portfolio",
+        "context": "Personal project",
+        "role": "Product Builder",
+        "problem": "No professional online presence to showcase my profile, services and background in a clear and distinctive way.",
+        "solution": "Designed and built a portfolio from scratch with Nuxt 3, including an integrated AI assistant, dark/light mode, FR/EN multilingual support and deployment on Vercel.",
+        "impact": "Professional online presence, AI chatbot available 24/7 to answer visitor questions, deployed in 1 week.",
         "stack": [
-          "Make",
-          "GPT-4",
-          "Clearbit",
-          "HubSpot",
-          "Phantombuster"
+          "Nuxt 3",
+          "Claude API",
+          "Tailwind CSS",
+          "Vercel",
+          "i18n"
         ]
       }
     }
@@ -270,62 +268,62 @@
     "meta_desc": "Beyond work: competitive padel, esport world champion, football and event organisation.",
     "badge": "Beyond work",
     "title": "My universe",
-    "subtitle": "What I do when I'm not building.",
+    "subtitle": "What I do on the side",
     "padel": {
       "badge": "Sport",
-      "title": "Padel — competitive level",
-      "desc1": "I've been playing competitive padel since 2021. Ranked P250, I train three times a week and regularly participate in amateur and open circuits in the Paris region.",
-      "desc2": "Padel taught me that tactical thinking and real-time adaptation are often worth more than raw power. Lessons I apply directly to my work: reading the situation, adjusting strategy, staying calm under pressure.",
+      "title": "Padel - Competition",
+      "desc1": "I've been playing competitive padel since 2022. Ranked in the top 10% in France, I train every week and regularly compete in tournaments around Paris.",
+      "desc2": "Padel taught me that tactical thinking and real-time adaptation are often worth more than raw power. Lessons I apply directly in my daily life: reading the situation, adjusting strategy, staying calm under pressure.",
       "stats": {
-        "level": "P250",
+        "level": "Top 10%",
         "level_label": "Ranking",
-        "years": "3+",
+        "years": "4",
         "years_label": "Years of practice",
-        "sessions": "3×/week",
-        "sessions_label": "Training sessions"
+        "sessions": "Weekly",
+        "sessions_label": "Training"
       }
     },
     "esport": {
       "badge": "Esport",
-      "title": "World Champion — CS:GO",
-      "desc1": "In 2019, my team won the FACEIT World Championship in CS:GO, one of the most competitive tournaments on the amateur world scene. Several months of qualifications, thousands of teams, a final under maximum pressure.",
-      "desc2": "Esport shaped me as much as my studies. Managing a high-level collective, analyzing complex meta-games, performing under pressure in a world final — these are skills directly transferable to the professional world. Mastering complex systems, competitive mindset, rapid decision-making: this is my real school.",
+      "title": "World Champion - Dofus",
+      "desc1": "I've always loved the Dofus universe, and I had the opportunity to compete in esport on this game for many years, winning the world championship title in 2023 with my team after several months of competition.",
+      "desc2": "Esport shaped me as much as my studies. Managing a high-level team, analysing complex game strategies, performing under pressure in world finals — these are skills directly transferable to the professional world. Mastering complex systems, a competitive mindset, rapid decision-making under pressure: this is my real school.",
       "stats": {
-        "achievement": "Champion",
-        "achievement_label": "of the world",
-        "tournament": "FACEIT WC",
-        "tournament_label": "Tournament",
-        "year": "2019",
-        "year_label": "Year"
+        "achievement": "10+",
+        "achievement_label": "Tournaments won",
+        "tournament": "8 years",
+        "tournament_label": "Competing",
+        "year": "2024",
+        "year_label": "Retirement"
       }
     },
     "quote": "Competition taught me one essential thing: the difference between good and great is rarely talent — it's discipline, preparation, and the ability to stay lucid when the stakes are high.",
     "evenement": {
       "badge": "Events",
       "title": "Event Organisation",
-      "desc1": "I've been organising events for several years — parties, tournaments, gatherings. From logistics to communication and on-site team coordination, I've learned to manage uncertainty and deliver a memorable experience despite the unexpected.",
-      "desc2": "Running a successful event is exactly like running a project: anticipate, delegate, pivot fast. A school of operational discipline I apply every day in my freelance work.",
+      "desc1": "I've been organising private events for friends and family for several years: parties, tournaments, holidays. From logistics to communication and on-site coordination, I've learned to manage uncertainty and deliver a memorable experience despite the unexpected.",
+      "desc2": "Running a successful event is exactly like running a project: anticipate, delegate, pivot fast. A school of operational discipline I apply every day in my work.",
       "stats": {
         "events": "10+",
         "events_label": "Events",
-        "participants": "300+",
+        "participants": "100+",
         "participants_label": "Participants",
-        "years": "4",
+        "years": "6",
         "years_label": "Years of experience"
       }
     },
     "football": {
-      "badge": "Football",
-      "title": "Football — regular practice",
-      "desc1": "Football has been part of my life since childhood. I play recreationally but with the intensity and discipline of a competitor: reading the game, collective pressing, defensive organisation. A sport that builds character as much as fitness.",
-      "desc2": "Football taught me the value of the collective. You can have the best individuals in the world — without cohesion and a shared strategy, you don't win. A conviction I bring to every team I work with.",
+      "badge": "Sport",
+      "title": "Football, a passion",
+      "desc1": "Football has been part of my life since childhood. I play five-a-side regularly with friends, but where I enjoy it most is watching games with the crew — picking apart every missed chance while cheering on my beloved club, PSG.",
+      "desc2": "This sport taught me the value of friendship. Nothing beats a Champions League night with the right people, passionately debating every refereeing decision or the perfect line-up. Football is, above all, an excuse to share moments that matter.",
       "stats": {
-        "years": "15+",
-        "years_label": "Years of practice",
-        "position": "Midfielder",
-        "position_label": "Position",
-        "sessions": "2×/week",
-        "sessions_label": "Games"
+        "years": "PSG",
+        "years_label": "Favourite club",
+        "position": "20+",
+        "position_label": "Years of passion",
+        "sessions": "1×/week",
+        "sessions_label": "Five-a-side"
       }
     }
   },
