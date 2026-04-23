@@ -1,0 +1,27 @@
+{
+  "name": "arthur-souchon-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.36.0",
+    "@nuxt/ui": "^3.0.0",
+    "@nuxtjs/i18n": "^9.1.0",
+    "@nuxtjs/sitemap": "^7.0.0",
+    "@vueuse/motion": "^2.2.3",
+    "nuxt": "^3.15.0",
+    "vue": "^3.5.0",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@iconify-json/heroicons": "^1.2.0",
+    "typescript": "^5.7.0",
+    "vue-tsc": "^2.2.0"
+  }
+}

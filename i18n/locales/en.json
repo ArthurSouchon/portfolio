@@ -1,0 +1,378 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "experience": "Experience",
+    "realisations": "Projects",
+    "univers": "Universe",
+    "chat": "Chat"
+  },
+  "home": {
+    "hero": {
+      "badge": "Available for projects",
+      "title": "The strategist who automates.",
+      "title2": "The builder who structures.",
+      "subtitle": "I turn your processes and AI projects into systems that actually work.",
+      "cta": "Book a call",
+      "cta_secondary": "Discover my services"
+    },
+    "services": {
+      "badge": "What I do",
+      "title": "My services",
+      "subtitle": "From idea to execution — three complementary expertises to accelerate your AI and ops projects.",
+      "cta": "See all services",
+      "s1_title": "Automation & Workflows",
+      "s1_desc": "Connect your tools, automate repetitive tasks and free up operational time.",
+      "s2_title": "AI Project Scoping",
+      "s2_desc": "Specifications, model selection, test prototypes — I structure your AI projects from A to Z.",
+      "s3_title": "Product & Ops Management",
+      "s3_desc": "Product vision, prioritization, coordinating tech and business teams to deliver."
+    },
+    "cases": {
+      "badge": "Projects",
+      "title": "Recent projects",
+      "subtitle": "Concrete results, not just slides.",
+      "cta": "See all projects"
+    },
+    "stack": {
+      "badge": "Tools & tech",
+      "title": "My stack",
+      "subtitle": "The tools I use every day to build, automate and deliver."
+    },
+    "cta_section": {
+      "title": "Ready to get started?",
+      "subtitle": "Tell me about your project. We'll find the best approach together.",
+      "button": "Book a free slot"
+    }
+  },
+  "services": {
+    "meta_title": "Services — Arthur Souchon",
+    "meta_desc": "Automation, AI scoping, product ops: discover Arthur Souchon's services.",
+    "badge": "Offerings",
+    "title": "My services",
+    "subtitle": "Three complementary expertises. One point of contact.",
+    "for_who": "Who is it for?",
+    "includes": "What's included",
+    "cta": "Book a 30-min call",
+    "cta_section": {
+      "badge": "Let's get started",
+      "title": "Got a project in mind?",
+      "subtitle": "Let's sync for 30 minutes: your context, your priorities, and whether I can genuinely help."
+    },
+    "s1": {
+      "title": "Automation & Workflows",
+      "desc": "Connect your tools, automate your tasks and reclaim hours of operational time every week.",
+      "for_who": "Startups and SMEs losing time on repetitive manual tasks — onboarding, reporting, data sync, notifications.",
+      "includes": [
+        "I map your processes and identify automation opportunities.",
+        "I design and deploy your workflows on n8n, Make, or Zapier.",
+        "I connect your tools via API (CRM, ERP, databases…).",
+        "I train your teams and document every delivered flow.",
+        "I monitor and maintain everything post-deployment."
+      ]
+    },
+    "s2": {
+      "title": "AI Project Scoping",
+      "desc": "From brief to technical roadmap — I structure your AI projects to maximize success.",
+      "for_who": "Product teams and CTOs who want to integrate AI into their products or processes without getting lost in technical complexity.",
+      "includes": [
+        "I scope the functional and technical boundaries of your AI project.",
+        "I select the right model based on your use case and constraints.",
+        "I write the specs, user stories, and production prompts.",
+        "I prototype, test, and validate before any deployment.",
+        "I manage the project in coordination with your teams."
+      ]
+    },
+    "s3": {
+      "title": "Product & Ops Management",
+      "desc": "Structure your product vision, prioritize what matters and coordinate your teams effectively.",
+      "for_who": "Founders and product directors who need a senior PM part-time to structure their roadmap and operations.",
+      "includes": [
+        "I audit the maturity of your product and ops organisation.",
+        "I structure your roadmap and define your priority OKRs.",
+        "I set up your agile rituals and management tools.",
+        "I coordinate tech, design, and business teams.",
+        "I deliver tracking dashboards for your strategic decisions."
+      ]
+    },
+    "faq": {
+      "badge": "FAQ",
+      "title": "Questions I'm often asked",
+      "q1": "How does a first project work?",
+      "a1": "We start with a free 30-minute call to understand your context and needs. If the project is aligned, I send you a proposal with scope, timeline and rate. We usually start within one to two weeks.",
+      "q2": "Do you work on a time-and-materials or fixed-price basis?",
+      "a2": "Both, depending on the project. Short scoping missions are often fixed-price. Longer engagements (automation, PM) are on a daily or monthly rate. We define the best format together.",
+      "q3": "What is your day rate?",
+      "a3": "It varies depending on the nature and volume of the mission. I'll share my rates during our first call. I prefer long-term relationships over one-shot projects.",
+      "q4": "Do you work with already structured teams?",
+      "a4": "Yes, and that's actually where I add the most value. I know how to integrate into an existing environment, work with your devs, designers and ops, without friction."
+    }
+  },
+  "experience": {
+    "meta_title": "Experience — Arthur Souchon",
+    "meta_desc": "Arthur Souchon's career: freelance AI, product manager, automation ops.",
+    "badge": "Career",
+    "title": "My experience",
+    "subtitle": "Five years at the intersection of product, AI and operations.",
+    "skills_label": "Key skills",
+    "jobs": {
+      "j1": {
+        "title": "Freelance — AI, Automation & Product Ops",
+        "company": "Independent",
+        "period": "Jan. 2024 — present",
+        "desc": "Consulting and delivery missions for startups and SMEs: business workflow automation, AI project scoping, fractional product management. Main stack: n8n, Make, Claude, GPT-4, Notion.",
+        "skills": [
+          "n8n",
+          "Make",
+          "Claude API",
+          "GPT-4",
+          "Product Management",
+          "AI Specs",
+          "Notion"
+        ]
+      },
+      "j2": {
+        "title": "Lead AI Product Manager",
+        "company": "Kara Platform — HR SaaS Scale-up",
+        "period": "Nov. 2022 — Dec. 2023",
+        "desc": "Led the development of an AI feature suite (matching, scoring, JD generation) on a B2B HR platform. Managed a team of 8, quarterly roadmap, go-to-market.",
+        "skills": [
+          "Product Roadmap",
+          "Generative AI",
+          "NLP",
+          "Agile",
+          "OKRs",
+          "Go-to-market",
+          "B2B SaaS"
+        ]
+      },
+      "j3": {
+        "title": "Automation Ops Manager",
+        "company": "Paytop — Fintech",
+        "period": "Mar. 2021 — Oct. 2022",
+        "desc": "Designed and deployed the automation infrastructure for internal operations: KYC, customer onboarding, regulatory reporting. Reduced manual processing time by 65%.",
+        "skills": [
+          "Zapier",
+          "Make",
+          "Process design",
+          "KYC",
+          "Compliance ops",
+          "Airtable",
+          "REST APIs"
+        ]
+      },
+      "j4": {
+        "title": "Product Owner",
+        "company": "Novell Digital — Product Agency",
+        "period": "Sep. 2019 — Feb. 2021",
+        "desc": "PO on multiple simultaneous client projects (e-commerce, SaaS, mobile apps). Writing user stories, sprint facilitation, liaison between clients and technical teams.",
+        "skills": [
+          "Scrum",
+          "User stories",
+          "JIRA",
+          "Figma",
+          "User testing",
+          "Mobile",
+          "E-commerce"
+        ]
+      },
+      "j5": {
+        "title": "Digital Project Manager",
+        "company": "Altea Conseil — Consulting Firm",
+        "period": "Sep. 2017 — Aug. 2019",
+        "desc": "Led digital transformation projects for major enterprise clients (retail, industry). Digital maturity audits, change management, collaborative tools deployment.",
+        "skills": [
+          "Digital transformation",
+          "Change management",
+          "Enterprise",
+          "Microsoft 365",
+          "Power BI",
+          "Workshops"
+        ]
+      }
+    }
+  },
+  "realisations": {
+    "meta_title": "Projects — Arthur Souchon",
+    "meta_desc": "Concrete client cases: automation, AI, product ops. Problem → Solution → Impact.",
+    "badge": "Client cases",
+    "title": "Projects",
+    "subtitle": "Real projects, measurable results.",
+    "problem": "Problem",
+    "solution": "Solution",
+    "impact": "Impact",
+    "stack_label": "Stack",
+    "cases": {
+      "c1": {
+        "title": "Client onboarding automation",
+        "context": "B2B SaaS — 50 to 200 employees",
+        "role": "Automation Engineer",
+        "problem": "The client onboarding process was entirely manual: 6 steps, 3 different tools, 4 hours of processing per file. Data entry errors and delays were degrading the client experience.",
+        "solution": "Design and deployment of a complete n8n workflow: automatic trigger upon contract signature, access creation, email sequence dispatch, Slack notification, CRM update.",
+        "impact": "−80% processing time (from 4h to 45min). Zero data entry errors. Customer satisfaction +18pts on NPS.",
+        "stack": [
+          "n8n",
+          "HubSpot",
+          "Notion",
+          "Slack",
+          "Stripe"
+        ]
+      },
+      "c2": {
+        "title": "Internal AI assistant for a logistics team",
+        "context": "Mid-size logistics company — 300 employees",
+        "role": "AI Product Manager",
+        "problem": "Field teams were losing 2h/day searching for information across scattered documents (procedures, rates, contacts). No centralized tool, no RAG in place.",
+        "solution": "Full project scoping: model selection (Claude Sonnet), document corpus definition, interface specs, development steering with the internal team, testing and deployment.",
+        "impact": "+40% operational efficiency on document queries. >80% adoption within 3 weeks.",
+        "stack": [
+          "Claude API",
+          "RAG",
+          "Notion",
+          "Confluence",
+          "Next.js"
+        ]
+      },
+      "c3": {
+        "title": "Product ops restructuring",
+        "context": "E-commerce scale-up — Series A",
+        "role": "Product Owner",
+        "problem": "The product roadmap was driven by gut feeling. No OKRs, no prioritization ritual, chaotic sprint planning. Declining velocity, team frustration.",
+        "solution": "Implementation of a complete PM framework: quarterly OKRs, automated RICE scoring in Notion, weekly rituals, velocity dashboard. Reporting automation via Make.",
+        "impact": "+30% sprint velocity in 2 months. Backlog reduced by 60%. Team aligned on priorities.",
+        "stack": [
+          "Notion",
+          "Make",
+          "Linear",
+          "Figma",
+          "Miro"
+        ]
+      },
+      "c4": {
+        "title": "AI lead qualification pipeline",
+        "context": "B2B SME — Professional services",
+        "role": "Automation Engineer",
+        "problem": "The sales team spent 3h/day manually qualifying inbound leads: website analysis, sector, size, potential. Inaccurate qualification, loss of hot leads.",
+        "solution": "Complete automated pipeline: data scraping and enrichment, AI scoring via GPT-4, automatic assignment to the right salesperson, CRM record creation with generated summary.",
+        "impact": "+25% conversion rate. −3h/day for the sales team. Positive ROI in < 6 weeks.",
+        "stack": [
+          "Make",
+          "GPT-4",
+          "Clearbit",
+          "HubSpot",
+          "Phantombuster"
+        ]
+      }
+    }
+  },
+  "univers": {
+    "meta_title": "Universe — Arthur Souchon",
+    "meta_desc": "Beyond work: competitive padel, esport world champion, football and event organisation.",
+    "badge": "Beyond work",
+    "title": "My universe",
+    "subtitle": "What I do when I'm not building.",
+    "padel": {
+      "badge": "Sport",
+      "title": "Padel — competitive level",
+      "desc1": "I've been playing competitive padel since 2021. Ranked P250, I train three times a week and regularly participate in amateur and open circuits in the Paris region.",
+      "desc2": "Padel taught me that tactical thinking and real-time adaptation are often worth more than raw power. Lessons I apply directly to my work: reading the situation, adjusting strategy, staying calm under pressure.",
+      "stats": {
+        "level": "P250",
+        "level_label": "Ranking",
+        "years": "3+",
+        "years_label": "Years of practice",
+        "sessions": "3×/week",
+        "sessions_label": "Training sessions"
+      }
+    },
+    "esport": {
+      "badge": "Esport",
+      "title": "World Champion — CS:GO",
+      "desc1": "In 2019, my team won the FACEIT World Championship in CS:GO, one of the most competitive tournaments on the amateur world scene. Several months of qualifications, thousands of teams, a final under maximum pressure.",
+      "desc2": "Esport shaped me as much as my studies. Managing a high-level collective, analyzing complex meta-games, performing under pressure in a world final — these are skills directly transferable to the professional world. Mastering complex systems, competitive mindset, rapid decision-making: this is my real school.",
+      "stats": {
+        "achievement": "Champion",
+        "achievement_label": "of the world",
+        "tournament": "FACEIT WC",
+        "tournament_label": "Tournament",
+        "year": "2019",
+        "year_label": "Year"
+      }
+    },
+    "quote": "Competition taught me one essential thing: the difference between good and great is rarely talent — it's discipline, preparation, and the ability to stay lucid when the stakes are high.",
+    "evenement": {
+      "badge": "Events",
+      "title": "Event Organisation",
+      "desc1": "I've been organising events for several years — parties, tournaments, gatherings. From logistics to communication and on-site team coordination, I've learned to manage uncertainty and deliver a memorable experience despite the unexpected.",
+      "desc2": "Running a successful event is exactly like running a project: anticipate, delegate, pivot fast. A school of operational discipline I apply every day in my freelance work.",
+      "stats": {
+        "events": "10+",
+        "events_label": "Events",
+        "participants": "300+",
+        "participants_label": "Participants",
+        "years": "4",
+        "years_label": "Years of experience"
+      }
+    },
+    "football": {
+      "badge": "Football",
+      "title": "Football — regular practice",
+      "desc1": "Football has been part of my life since childhood. I play recreationally but with the intensity and discipline of a competitor: reading the game, collective pressing, defensive organisation. A sport that builds character as much as fitness.",
+      "desc2": "Football taught me the value of the collective. You can have the best individuals in the world — without cohesion and a shared strategy, you don't win. A conviction I bring to every team I work with.",
+      "stats": {
+        "years": "15+",
+        "years_label": "Years of practice",
+        "position": "Midfielder",
+        "position_label": "Position",
+        "sessions": "2×/week",
+        "sessions_label": "Games"
+      }
+    }
+  },
+  "chat": {
+    "meta_title": "Chat with Arthur — Arthur Souchon",
+    "meta_desc": "Ask questions to Arthur Souchon via his AI assistant.",
+    "badge": "AI Assistant",
+    "assistant_name": "Arthur's Assistant",
+    "online": "Online",
+    "title": "Chat with Arthur",
+    "subtitle": "Ask your questions about my profile, services or background.",
+    "intro": "Hello! I'm Arthur's AI assistant. I can answer your questions about his profile, services, career and availability. Feel free to ask!",
+    "placeholder": "Ask your question...",
+    "send": "Send",
+    "disclaimer": "AI-generated responses — may contain inaccuracies.",
+    "error_too_long": "Message too long (500 characters max).",
+    "error_rate_limit": "Limit reached. Try again in an hour.",
+    "error_invalid": "Invalid message.",
+    "error_generic": "An error occurred. Please try again.",
+    "limit_error": "Message limit reached. Try again in an hour.",
+    "generic_error": "An error occurred. Please try again.",
+    "char_count": "{count}/500",
+    "typing": "Arthur is thinking...",
+    "widget": {
+      "online": "Online",
+      "context": {
+        "home": "Any questions about my profile?",
+        "services": "Questions about my offerings?",
+        "experience": "Curious about how I work?",
+        "realisations": "Want to know more about a project?",
+        "univers": "Wanna talk padel or esport? 😄"
+      },
+      "open": "Open chat",
+      "close": "Close"
+    }
+  },
+  "footer": {
+    "tagline": "Builder. Strategist. Freelance AI & Ops.",
+    "links_title": "Navigation",
+    "contact_title": "Contact",
+    "calendly": "Book a call",
+    "rights": "All rights reserved.",
+    "made_with": "Made with"
+  },
+  "meta": {
+    "home_title": "Arthur Souchon — Freelance AI & Automation",
+    "home_desc": "Freelance specialized in AI, automation and product ops. I turn your processes into systems that actually work.",
+    "og_image": "/og-image.png"
+  }
+}

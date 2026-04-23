@@ -1,0 +1,378 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "experience": "Expérience",
+    "realisations": "Réalisations",
+    "univers": "Univers",
+    "chat": "Chat"
+  },
+  "home": {
+    "hero": {
+      "badge": "Disponible pour missions",
+      "title": "Le stratège qui automatise.",
+      "title2": "Le builder qui structure.",
+      "subtitle": "Je transforme vos process et projets IA en systèmes qui tournent vraiment.",
+      "cta": "Prendre un rendez-vous",
+      "cta_secondary": "Découvrir mes services"
+    },
+    "services": {
+      "badge": "Ce que je fais",
+      "title": "Mes services",
+      "subtitle": "De l'idée à l'exécution — trois expertises complémentaires pour accélérer vos projets IA et ops.",
+      "cta": "Voir tous les services",
+      "s1_title": "Automation & Workflows",
+      "s1_desc": "Connecter vos outils, automatiser vos tâches répétitives et libérer du temps opérationnel.",
+      "s2_title": "Cadrage de projets IA",
+      "s2_desc": "Spécifications, choix de modèles, maquettes de test — je structure vos projets IA de A à Z.",
+      "s3_title": "Product & Ops Management",
+      "s3_desc": "Vision produit, priorisation, coordination des équipes tech et métier pour livrer."
+    },
+    "cases": {
+      "badge": "Réalisations",
+      "title": "Quelques projets récents",
+      "subtitle": "Des résultats concrets, pas des slides.",
+      "cta": "Voir tous les projets"
+    },
+    "stack": {
+      "badge": "Outils & technos",
+      "title": "Ma stack",
+      "subtitle": "Les outils que j'utilise au quotidien pour construire, automatiser et livrer."
+    },
+    "cta_section": {
+      "title": "Prêt à démarrer ?",
+      "subtitle": "Parlez-moi de votre projet. On trouve ensemble la meilleure approche.",
+      "button": "Réserver un créneau gratuit"
+    }
+  },
+  "services": {
+    "meta_title": "Services — Arthur Souchon",
+    "meta_desc": "Automation, cadrage IA, product ops : découvrez les services d'Arthur Souchon.",
+    "badge": "Offres",
+    "title": "Mes services",
+    "subtitle": "Trois expertises complémentaires. Un seul interlocuteur.",
+    "for_who": "Pour qui ?",
+    "includes": "Ce que ça inclut",
+    "cta": "Réserver un appel de 30 min",
+    "cta_section": {
+      "badge": "Passons à l'action",
+      "title": "Un projet en tête ?",
+      "subtitle": "On fait le point en 30 minutes : votre contexte, vos priorités, et si je peux vous aider concrètement."
+    },
+    "s1": {
+      "title": "Automation & Workflows",
+      "desc": "Connectez vos outils, automatisez vos tâches et récupérez des heures opérationnelles chaque semaine.",
+      "for_who": "Startups et PME qui perdent du temps sur des tâches manuelles répétitives — onboarding, reporting, synchronisation de données, notifications.",
+      "includes": [
+        "Je cartographie vos processus et identifie les gains d'automatisation.",
+        "Je conçois et déploie vos workflows sur n8n, Make ou Zapier.",
+        "Je connecte vos outils entre eux via API (CRM, ERP, bases de données…).",
+        "Je forme vos équipes et documente chaque flux livré.",
+        "J'assure le monitoring et la maintenance post-déploiement."
+      ]
+    },
+    "s2": {
+      "title": "Cadrage de projets IA",
+      "desc": "Du brief à la feuille de route technique — je structure vos projets IA pour maximiser les chances de succès.",
+      "for_who": "Équipes produit et DSI qui veulent intégrer l'IA dans leurs produits ou processus sans se perdre dans la complexité technique.",
+      "includes": [
+        "Je cadre le périmètre fonctionnel et technique de votre projet IA.",
+        "Je sélectionne le bon modèle selon votre cas d'usage et vos contraintes.",
+        "Je rédige les specs, user stories et prompts de production.",
+        "Je prototype, teste et valide avant tout déploiement.",
+        "Je pilote le projet en coordination avec vos équipes."
+      ]
+    },
+    "s3": {
+      "title": "Product & Ops Management",
+      "desc": "Structurez votre vision produit, priorisez l'essentiel et coordonnez efficacement vos équipes.",
+      "for_who": "Fondateurs et directeurs de produit qui ont besoin d'un PM senior à temps partiel pour structurer leur roadmap et leurs opérations.",
+      "includes": [
+        "J'audite la maturité de votre organisation produit et ops.",
+        "Je structure votre roadmap et définis vos OKRs prioritaires.",
+        "Je mets en place vos rituels agiles et outils de pilotage.",
+        "Je coordonne les équipes tech, design et métier.",
+        "Je livre des dashboards de suivi pour vos décisions stratégiques."
+      ]
+    },
+    "faq": {
+      "badge": "Questions fréquentes",
+      "title": "Ce qu'on me demande souvent",
+      "q1": "Comment se déroule une première mission ?",
+      "a1": "On commence par un call de 30 minutes gratuit pour comprendre votre contexte et vos besoins. Si le projet est aligné, je vous envoie une proposition avec le périmètre, les délais et le tarif. On démarre généralement sous une à deux semaines.",
+      "q2": "Vous travaillez en régie ou en forfait ?",
+      "a2": "Les deux selon les projets. Les missions courtes de cadrage sont souvent en forfait fixe. Les accompagnements longs (automation, PM) se font en régie journalière ou mensuelle. On définit ensemble le format le plus adapté.",
+      "q3": "Quel est votre TJM ?",
+      "a3": "Il varie selon la nature de la mission et le volume. Je vous communique mes tarifs lors du premier échange. Je privilégie les relations de long terme aux missions one-shot.",
+      "q4": "Travaillez-vous avec des équipes déjà structurées ?",
+      "a4": "Oui, c'est même là que j'apporte le plus de valeur. Je sais m'intégrer dans un environnement existant, travailler avec vos devs, designers et ops, sans friction."
+    }
+  },
+  "experience": {
+    "meta_title": "Expérience — Arthur Souchon",
+    "meta_desc": "Parcours professionnel d'Arthur Souchon : freelance IA, product manager, automation ops.",
+    "badge": "Parcours",
+    "title": "Mon expérience",
+    "subtitle": "Cinq ans à la croisée du produit, de l'IA et des opérations.",
+    "skills_label": "Compétences clés",
+    "jobs": {
+      "j1": {
+        "title": "Freelance — IA, Automation & Product Ops",
+        "company": "Indépendant",
+        "period": "Janv. 2024 — présent",
+        "desc": "Missions de conseil et de delivery auprès de startups et PME : automatisation de workflows métier, cadrage de projets IA, product management à temps partagé. Stack principale : n8n, Make, Claude, GPT-4, Notion.",
+        "skills": [
+          "n8n",
+          "Make",
+          "Claude API",
+          "GPT-4",
+          "Product Management",
+          "Specs IA",
+          "Notion"
+        ]
+      },
+      "j2": {
+        "title": "Lead Product Manager IA",
+        "company": "Kara Platform — Scale-up SaaS RH",
+        "period": "Nov. 2022 — Déc. 2023",
+        "desc": "Pilotage du développement d'une suite de fonctionnalités IA (matching, scoring, génération de JD) sur une plateforme RH B2B. Coordination d'une équipe de 8 personnes, roadmap trimestrielle, go-to-market.",
+        "skills": [
+          "Product Roadmap",
+          "IA générative",
+          "NLP",
+          "Agile",
+          "OKRs",
+          "Go-to-market",
+          "B2B SaaS"
+        ]
+      },
+      "j3": {
+        "title": "Automation Ops Manager",
+        "company": "Paytop — Fintech",
+        "period": "Mars 2021 — Oct. 2022",
+        "desc": "Conception et déploiement de l'infrastructure d'automatisation des opérations internes : KYC, onboarding client, reporting réglementaire. Réduction de 65% du temps de traitement manuel.",
+        "skills": [
+          "Zapier",
+          "Make",
+          "Process design",
+          "KYC",
+          "Compliance ops",
+          "Airtable",
+          "APIs REST"
+        ]
+      },
+      "j4": {
+        "title": "Product Owner",
+        "company": "Novell Digital — Agence produit",
+        "period": "Sept. 2019 — Févr. 2021",
+        "desc": "PO sur plusieurs projets clients simultanés (e-commerce, SaaS, applications mobiles). Rédaction des user stories, animation des sprints, liaison entre clients et équipes techniques.",
+        "skills": [
+          "Scrum",
+          "User stories",
+          "JIRA",
+          "Figma",
+          "Tests utilisateurs",
+          "Mobile",
+          "E-commerce"
+        ]
+      },
+      "j5": {
+        "title": "Chef de projet digital",
+        "company": "Altea Conseil — Cabinet de conseil",
+        "period": "Sept. 2017 — Août 2019",
+        "desc": "Pilotage de projets de transformation digitale pour des clients grands comptes (retail, industrie). Audit de maturité digitale, conduite du changement, déploiement d'outils collaboratifs.",
+        "skills": [
+          "Transformation digitale",
+          "Conduite du changement",
+          "Grands comptes",
+          "Microsoft 365",
+          "Power BI",
+          "Workshops"
+        ]
+      }
+    }
+  },
+  "realisations": {
+    "meta_title": "Réalisations — Arthur Souchon",
+    "meta_desc": "Cas clients concrets : automation, IA, product ops. Problème → Solution → Impact.",
+    "badge": "Cas clients",
+    "title": "Réalisations",
+    "subtitle": "Des projets réels, des résultats mesurables.",
+    "problem": "Problème",
+    "solution": "Solution",
+    "impact": "Impact",
+    "stack_label": "Stack",
+    "cases": {
+      "c1": {
+        "title": "Automatisation de l'onboarding client",
+        "context": "SaaS B2B — 50 à 200 salariés",
+        "role": "Automation Engineer",
+        "problem": "Le processus d'onboarding client était entièrement manuel : 6 étapes, 3 outils différents, 4h de traitement par dossier. Les erreurs de saisie et les retards dégradaient l'expérience client.",
+        "solution": "Conception et déploiement d'un workflow n8n complet : déclenchement automatique à la signature du contrat, création des accès, envoi des séquences d'emails, notification Slack, mise à jour du CRM.",
+        "impact": "−80% de temps de traitement (de 4h à 45min). Zéro erreur de saisie. Satisfaction client +18pts sur le NPS.",
+        "stack": [
+          "n8n",
+          "HubSpot",
+          "Notion",
+          "Slack",
+          "Stripe"
+        ]
+      },
+      "c2": {
+        "title": "Assistant IA interne pour une équipe logistique",
+        "context": "ETI logistique — 300 salariés",
+        "role": "AI Product Manager",
+        "problem": "Les équipes terrain perdaient 2h/jour à chercher des informations dans des docs éparpillés (procédures, tarifs, contacts). Pas d'outil centralisé, pas de RAG en place.",
+        "solution": "Cadrage complet du projet : choix du modèle (Claude Sonnet), définition du corpus documentaire, specs de l'interface, pilotage du développement avec l'équipe interne, recette et déploiement.",
+        "impact": "+40% d'efficacité opérationnelle mesurée sur les requêtes documentaires. Adoption > 80% en 3 semaines.",
+        "stack": [
+          "Claude API",
+          "RAG",
+          "Notion",
+          "Confluence",
+          "Next.js"
+        ]
+      },
+      "c3": {
+        "title": "Restructuration des ops produit",
+        "context": "E-commerce scale-up — Série A",
+        "role": "Product Owner",
+        "problem": "La roadmap produit était pilotée à l'instinct. Pas d'OKRs, pas de rituel de priorisation, sprint planning chaotique. Vélocité en baisse, frustration des équipes.",
+        "solution": "Mise en place d'un framework PM complet : OKRs trimestriels, scoring RICE automatisé dans Notion, rituels hebdomadaires, dashboard de vélocité. Automatisation du reporting via Make.",
+        "impact": "+30% de vélocité sprint en 2 mois. Backlog réduit de 60%. Équipe alignée sur les priorités.",
+        "stack": [
+          "Notion",
+          "Make",
+          "Linear",
+          "Figma",
+          "Miro"
+        ]
+      },
+      "c4": {
+        "title": "Pipeline IA de qualification de leads",
+        "context": "PME B2B — Services professionnels",
+        "role": "Automation Engineer",
+        "problem": "L'équipe commerciale passait 3h/jour à qualifier manuellement des leads entrants : analyse du site web, secteur, taille, potentiel. Taux de qualification inexact, perte de leads chauds.",
+        "solution": "Pipeline automatisé complet : scraping enrichissement des données, scoring IA via GPT-4, attribution automatique au bon commercial, création de la fiche CRM avec résumé généré.",
+        "impact": "+25% de taux de conversion. −3h/jour pour l'équipe commerciale. ROI positif en < 6 semaines.",
+        "stack": [
+          "Make",
+          "GPT-4",
+          "Clearbit",
+          "HubSpot",
+          "Phantombuster"
+        ]
+      }
+    }
+  },
+  "univers": {
+    "meta_title": "Univers — Arthur Souchon",
+    "meta_desc": "Au-delà du boulot : padel compétitif, champion du monde esport, football et organisation d'événements.",
+    "badge": "Au-delà du boulot",
+    "title": "Mon univers",
+    "subtitle": "Ce que je fais quand je ne build pas.",
+    "padel": {
+      "badge": "Sport",
+      "title": "Padel — classement compétitif",
+      "desc1": "Je joue au padel en compétition depuis 2021. Classé P250, je m'entraîne 3 fois par semaine et participe régulièrement aux circuits amateur et open en Île-de-France.",
+      "desc2": "Le padel m'a appris que la réflexion tactique et l'adaptation en temps réel valent souvent plus que la puissance brute. Des leçons que j'applique directement dans mon travail : lire la situation, ajuster la stratégie, garder son calme sous pression.",
+      "stats": {
+        "level": "P250",
+        "level_label": "Classement",
+        "years": "3+",
+        "years_label": "Ans de pratique",
+        "sessions": "3×/sem",
+        "sessions_label": "Entraînements"
+      }
+    },
+    "esport": {
+      "badge": "Esport",
+      "title": "Champion du Monde — CS:GO",
+      "desc1": "En 2019, mon équipe a remporté le FACEIT World Championship en CS:GO, l'un des tournois les plus compétitifs de la scène amateur mondiale. Plusieurs mois de qualifications, des milliers d'équipes, une finale sous pression maximale.",
+      "desc2": "L'esport m'a façonné autant que mes études. Gérer un collectif à haut niveau, analyser des méta-jeux complexes, performer sous pression lors d'une finale mondiale — ce sont des compétences directement transférables au monde professionnel. La maîtrise de systèmes complexes, le mental compétiteur, la prise de décision rapide : c'est ma vraie école.",
+      "stats": {
+        "achievement": "Champion",
+        "achievement_label": "du monde",
+        "tournament": "FACEIT WC",
+        "tournament_label": "Tournoi",
+        "year": "2019",
+        "year_label": "Année"
+      }
+    },
+    "quote": "La compétition m'a appris une chose essentielle : la différence entre un bon et un excellent, c'est rarement le talent — c'est la rigueur, la préparation et la capacité à rester lucide quand les enjeux sont élevés.",
+    "evenement": {
+      "badge": "Événementiel",
+      "title": "Organisation d'événements",
+      "desc1": "J'organise des événements depuis plusieurs années — soirées, tournois, rassemblements. De la logistique à la communication, en passant par la coordination des équipes sur place, j'ai appris à gérer l'incertitude et à livrer une expérience mémorable malgré les imprévus.",
+      "desc2": "Organiser un événement réussi, c'est exactement comme mener un projet : anticiper, déléguer, pivoter vite. Une école de rigueur opérationnelle que j'applique chaque jour dans mes missions freelance.",
+      "stats": {
+        "events": "10+",
+        "events_label": "Événements",
+        "participants": "300+",
+        "participants_label": "Participants",
+        "years": "4",
+        "years_label": "Ans d'expérience"
+      }
+    },
+    "football": {
+      "badge": "Football",
+      "title": "Football — pratique régulière",
+      "desc1": "Le football fait partie de ma vie depuis l'enfance. Je joue en loisir mais avec l'intensité et la rigueur d'un compétiteur : lectures de jeu, pressing collectif, organisation défensive. Un sport qui forge autant le caractère que le physique.",
+      "desc2": "Le football m'a enseigné la valeur du collectif. On peut avoir les meilleurs individus du monde — sans cohésion et sans stratégie commune, ça ne gagne pas. Une conviction que j'applique dans chaque équipe avec laquelle je travaille.",
+      "stats": {
+        "years": "15+",
+        "years_label": "Ans de pratique",
+        "position": "Milieu",
+        "position_label": "Poste",
+        "sessions": "2×/sem",
+        "sessions_label": "Matchs"
+      }
+    }
+  },
+  "chat": {
+    "meta_title": "Chat avec Arthur — Arthur Souchon",
+    "meta_desc": "Posez vos questions à Arthur Souchon via son assistant IA.",
+    "badge": "Assistant IA",
+    "assistant_name": "Assistant d'Arthur",
+    "online": "En ligne",
+    "title": "Chat avec Arthur",
+    "subtitle": "Posez vos questions sur mon profil, mes services ou mon parcours.",
+    "intro": "Bonjour ! Je suis l'assistant IA d'Arthur. Je peux répondre à vos questions sur son profil, ses services, son parcours et ses disponibilités. N'hésitez pas !",
+    "placeholder": "Posez votre question...",
+    "send": "Envoyer",
+    "disclaimer": "Réponses générées par IA — peuvent contenir des imprécisions.",
+    "error_too_long": "Message trop long (500 caractères max).",
+    "error_rate_limit": "Limite atteinte. Réessayez dans une heure.",
+    "error_invalid": "Message invalide.",
+    "error_generic": "Une erreur est survenue. Veuillez réessayer.",
+    "limit_error": "Limite de messages atteinte. Réessayez dans une heure.",
+    "generic_error": "Une erreur est survenue. Veuillez réessayer.",
+    "char_count": "{count}/500",
+    "typing": "Arthur réfléchit...",
+    "widget": {
+      "online": "En ligne",
+      "context": {
+        "home": "Vous avez une question sur mon profil ?",
+        "services": "Une question sur mes offres ?",
+        "experience": "Curieux de savoir comment je travaille ?",
+        "realisations": "Envie d'en savoir plus sur un projet ?",
+        "univers": "On discute padel ou esport ? 😄"
+      },
+      "open": "Ouvrir le chat",
+      "close": "Fermer"
+    }
+  },
+  "footer": {
+    "tagline": "Builder. Stratège. Freelance IA & Ops.",
+    "links_title": "Navigation",
+    "contact_title": "Contact",
+    "calendly": "Prendre RDV",
+    "rights": "Tous droits réservés.",
+    "made_with": "Fait avec"
+  },
+  "meta": {
+    "home_title": "Arthur Souchon — Freelance IA & Automation",
+    "home_desc": "Freelance spécialisé en IA, automation et product ops. Je transforme vos process en systèmes qui tournent vraiment.",
+    "og_image": "/og-image.png"
+  }
+}

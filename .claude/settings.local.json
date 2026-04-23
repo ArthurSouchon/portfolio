@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 /tmp/darkmode_transform.py /Users/arthursouchon/arthur-souchon-site/pages/index.vue /Users/arthursouchon/arthur-souchon-site/pages/services.vue /Users/arthursouchon/arthur-souchon-site/pages/experience.vue /Users/arthursouchon/arthur-souchon-site/pages/realisations.vue /Users/arthursouchon/arthur-souchon-site/pages/univers.vue /Users/arthursouchon/arthur-souchon-site/pages/chat.vue /Users/arthursouchon/arthur-souchon-site/components/AppNavbar.vue /Users/arthursouchon/arthur-souchon-site/components/AppFooter.vue /Users/arthursouchon/arthur-souchon-site/components/FloatingChat.vue /Users/arthursouchon/arthur-souchon-site/layouts/default.vue)",
+      "Bash(python3 -c ' *)",
+      "Bash(magick /Users/arthursouchon/arthur-souchon-site/public/favicon.png -fuzz 10% -transparent white /Users/arthursouchon/arthur-souchon-site/public/favicon.png)"
+    ]
+  }
+}

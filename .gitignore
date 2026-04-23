@@ -1,0 +1,24 @@
+# Nuxt
+.nuxt
+.output
+dist
+.cache
+
+# Env — NE JAMAIS committer les clés API
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Vercel
+.vercel
