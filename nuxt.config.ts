@@ -47,7 +47,7 @@ export default defineNuxtConfig({
   },
 
   // Vercel deployment (preset auto-détecté sur Vercel, pas besoin en dev)
-  // nitro: { preset: 'vercel' },
+  nitro: { preset: 'vercel' },
 
   // App head
   app: {
