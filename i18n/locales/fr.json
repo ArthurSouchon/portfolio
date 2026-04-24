@@ -10,7 +10,7 @@
   "home": {
     "hero": {
       "badge": "Disponible pour mission",
-      "title": "PM & Automatisations",
+      "title": "PM & Automation",
       "title2": "Product Builder",
       "subtitle": "Je pilote vos roadmaps, automatise vos process et construis vos outils, du brief à la mise en production.",
       "cta": "Prendre un rendez-vous",
@@ -210,8 +210,9 @@
           "Nuxt",
           "API REST",
           "Swagger",
-          "Notion",
-          "Figma"
+          "Scalar",
+          "Nuxt Studio",
+          "SEO"
         ]
       },
       "c2": {
@@ -223,10 +224,11 @@
         "impact": "Nouveau canal disponible pour l'ensemble des clients. Ouverture de nouvelles opportunités commerciales et meilleur engagement des campagnes multicanales.",
         "stack": [
           "WhatsApp Business API",
-          "N8N",
-          "Notion",
           "Postman",
-          "Jira"
+          "Figma",
+          "Product Management",
+          "QA",
+          "Specification"
         ]
       },
       "c3": {
@@ -239,9 +241,10 @@
         "stack": [
           "Product Backlog",
           "QA",
-          "Python",
           "Confluence",
-          "SQL"
+          "SQL",
+          "S3",
+          "Data"
         ]
       },
       "c4": {
@@ -256,7 +259,8 @@
           "Claude API",
           "Tailwind CSS",
           "Vercel",
-          "i18n"
+          "i18n",
+          "IA"
         ]
       }
     }

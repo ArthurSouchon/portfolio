@@ -10,7 +10,7 @@
   "home": {
     "hero": {
       "badge": "Available for mission",
-      "title": "PM & Automations",
+      "title": "PM & Automation",
       "title2": "Product Builder",
       "subtitle": "I lead your roadmaps, automate your processes and build your tools, from brief to production.",
       "cta": "Book a call",
@@ -210,8 +210,9 @@
           "Nuxt",
           "REST API",
           "Swagger",
-          "Notion",
-          "Figma"
+          "Scalar",
+          "Nuxt Studio",
+          "SEO"
         ]
       },
       "c2": {
@@ -223,10 +224,11 @@
         "impact": "New channel available to all clients. New commercial opportunities and better engagement across multichannel campaigns.",
         "stack": [
           "WhatsApp Business API",
-          "N8N",
-          "Notion",
           "Postman",
-          "Jira"
+          "Figma",
+          "Product Management",
+          "QA",
+          "Specification"
         ]
       },
       "c3": {
@@ -239,9 +241,10 @@
         "stack": [
           "Product Backlog",
           "QA",
-          "Python",
           "Confluence",
-          "SQL"
+          "SQL",
+          "S3",
+          "Data"
         ]
       },
       "c4": {
@@ -256,7 +259,8 @@
           "Claude API",
           "Tailwind CSS",
           "Vercel",
-          "i18n"
+          "i18n",
+          "IA"
         ]
       }
     }
