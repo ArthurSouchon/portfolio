@@ -25,7 +25,7 @@ const navLinks = computed(() => [
             <span class="font-semibold text-slate-900 dark:text-slate-100">Arthur Souchon</span>
           </div>
           <p class="text-sm text-slate-500 dark:text-slate-400 leading-relaxed">
-            {{ t('home.hero.title') }} — {{ t('home.hero.title2') }}
+            {{ t('home.hero.title') }} - {{ t('home.hero.title2') }}
           </p>
           <div class="flex items-center gap-3">
             <a
