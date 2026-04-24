@@ -9,12 +9,12 @@ useSeoMeta({
 })
 
 const services = [
-  { key: 's1', icon: 'i-heroicons-bolt', number: '01' },
-  { key: 's2', icon: 'i-heroicons-cpu-chip', number: '02' },
-  { key: 's3', icon: 'i-heroicons-chart-bar', number: '03' },
+  { key: 's1', icon: 'i-heroicons-clipboard-document-list', number: '01' },
+  { key: 's2', icon: 'i-heroicons-cog-6-tooth', number: '02' },
+  { key: 's3', icon: 'i-heroicons-wrench-screwdriver', number: '03' },
 ]
 
-const faqs = ['q1', 'q2', 'q3', 'q4']
+const faqs = ['q1', 'q2', 'q3']
 const openFaq = ref<string | null>(null)
 
 function toggleFaq(key: string) {
@@ -39,10 +39,11 @@ function toggleFaq(key: string) {
         <div
           v-for="(svc, i) in services"
           :key="svc.key"
+          :id="svc.key"
           v-motion
           :initial="{ opacity: 0, y: 24 }"
           :visibleOnce="{ opacity: 1, y: 0, transition: { duration: 450, delay: i * 80 } }"
-          :class="['py-12', i < services.length - 1 ? 'border-b border-slate-200 dark:border-slate-800' : '']"
+          :class="['py-12 scroll-mt-24', i < services.length - 1 ? 'border-b border-slate-200 dark:border-slate-800' : '']"
         >
           <!-- Numéro + titre -->
           <div class="flex items-start gap-6 mb-6">

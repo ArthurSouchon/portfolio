@@ -24,7 +24,7 @@ const tools = [
   { name: 'Vercel', color: 'text-slate-800 dark:text-slate-200' },
 ]
 
-const serviceIcons = ['i-heroicons-bolt', 'i-heroicons-cpu-chip', 'i-heroicons-chart-bar']
+const serviceIcons = ['i-heroicons-clipboard-document-list', 'i-heroicons-cog-6-tooth', 'i-heroicons-wrench-screwdriver']
 const caseIcons = ['i-heroicons-book-open', 'i-heroicons-phone', 'i-heroicons-banknotes', 'i-heroicons-globe-alt']
 </script>
 
@@ -113,7 +113,7 @@ const caseIcons = ['i-heroicons-book-open', 'i-heroicons-phone', 'i-heroicons-ba
             :visibleOnce="{ opacity: 1, y: 0, transition: { duration: 400, delay: i * 80 } }"
           >
             <NuxtLink
-              :to="localePath('/services')"
+              :to="`${localePath('/services')}#${key}`"
               class="group block h-full p-6 rounded-xl bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:border-slate-300 dark:hover:border-slate-700 transition-colors duration-200"
             >
               <UIcon :name="serviceIcons[i]" class="w-5 h-5 text-indigo-400 mb-4" />

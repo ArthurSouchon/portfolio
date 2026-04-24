@@ -53,7 +53,7 @@ const caseIconColors = [
           v-motion
           :initial="{ opacity: 0, y: 40 }"
           :visibleOnce="{ opacity: 1, y: 0, transition: { duration: 500, delay: i * 80 } }"
-          class="rounded-2xl bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 overflow-hidden"
+          class="rounded-2xl bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 overflow-hidden scroll-mt-24"
         >
           <div class="bg-slate-50/80 dark:bg-slate-900/80 p-8">
             <!-- Header cas -->

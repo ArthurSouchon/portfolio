@@ -9,29 +9,29 @@
   },
   "home": {
     "hero": {
-      "badge": "Disponible pour missions",
-      "title": "Le stratège qui automatise.",
-      "title2": "Le builder qui structure.",
-      "subtitle": "Je transforme vos process et projets IA en systèmes qui tournent vraiment.",
+      "badge": "Disponible pour mission",
+      "title": "PM & Automatisations",
+      "title2": "Product Builder",
+      "subtitle": "Je pilote vos roadmaps, automatise vos process et construis vos outils, du brief à la mise en production.",
       "cta": "Prendre un rendez-vous",
       "cta_secondary": "Découvrir mes services"
     },
     "services": {
       "badge": "Ce que je fais",
-      "title": "Mes services",
-      "subtitle": "De l'idée à l'exécution — trois expertises complémentaires pour accélérer vos projets IA et ops.",
+      "title": "Ce que je fais",
+      "subtitle": "Trois expertises. Une seule interface.",
       "cta": "Voir tous les services",
-      "s1_title": "Automation & Workflows",
-      "s1_desc": "Connecter vos outils, automatiser vos tâches répétitives et libérer du temps opérationnel.",
-      "s2_title": "Cadrage de projets IA",
-      "s2_desc": "Spécifications, choix de modèles, maquettes de test — je structure vos projets IA de A à Z.",
-      "s3_title": "Product & Ops Management",
-      "s3_desc": "Vision produit, priorisation, coordination des équipes tech et métier pour livrer."
+      "s1_title": "Product Manager",
+      "s1_desc": "Je m'intègre dans votre équipe et pilote votre produit.",
+      "s2_title": "Automatisations de process",
+      "s2_desc": "Je connecte vos outils et automatise vos tâches répétitives.",
+      "s3_title": "Product Builder",
+      "s3_desc": "Je conçois et développe votre site ou outil sur mesure, clé en main."
     },
     "cases": {
       "badge": "Réalisations",
-      "title": "Quelques projets récents",
-      "subtitle": "Des résultats concrets, pas des slides.",
+      "title": "Projets récents",
+      "subtitle": "Des livrables concrets, pas des slides.",
       "cta": "Voir tous les projets"
     },
     "stack": {
@@ -40,17 +40,17 @@
       "subtitle": "Les outils que j'utilise au quotidien pour construire, automatiser et livrer."
     },
     "cta_section": {
-      "title": "Prêt à démarrer ?",
-      "subtitle": "Parlez-moi de votre projet. On trouve ensemble la meilleure approche.",
-      "button": "Réserver un créneau gratuit"
+      "title": "Un projet en tête ?",
+      "subtitle": "30 minutes suffisent pour faire le point sur votre contexte et voir si je peux vous aider.",
+      "button": "Réserver un appel gratuit"
     }
   },
   "services": {
     "meta_title": "Services — Arthur Souchon",
-    "meta_desc": "Automation, cadrage IA, product ops : découvrez les services d'Arthur Souchon.",
+    "meta_desc": "Product Manager, Automations, Product Builder : trois expertises freelance au service de votre croissance.",
     "badge": "Offres",
     "title": "Mes services",
-    "subtitle": "Trois expertises complémentaires. Un seul interlocuteur.",
+    "subtitle": "Trois expertises. Un seul interlocuteur.",
     "for_who": "Pour qui ?",
     "includes": "Ce que ça inclut",
     "cta": "Réserver un appel de 30 min",
@@ -60,52 +60,50 @@
       "subtitle": "On fait le point en 30 minutes : votre contexte, vos priorités, et si je peux vous aider concrètement."
     },
     "s1": {
-      "title": "Automation & Workflows",
-      "desc": "Connectez vos outils, automatisez vos tâches et récupérez des heures opérationnelles chaque semaine.",
-      "for_who": "Startups et PME qui perdent du temps sur des tâches manuelles répétitives — onboarding, reporting, synchronisation de données, notifications.",
+      "title": "Product Manager",
+      "desc": "Je m'intègre dans votre équipe et pilote votre produit : roadmap, backlog, specs, coordination. Temps plein ou temps partiel, selon vos besoins.",
+      "for_who": "Startups, PME et grands groupes qui ont besoin d'un PM opérationnel rapidement, sans les contraintes d'un recrutement.",
       "includes": [
-        "Je cartographie vos processus et identifie les gains d'automatisation.",
-        "Je conçois et déploie vos workflows sur n8n, Make ou Zapier.",
-        "Je connecte vos outils entre eux via API (CRM, ERP, bases de données…).",
-        "Je forme vos équipes et documente chaque flux livré.",
-        "J'assure le monitoring et la maintenance post-déploiement."
+        "Je prends en charge la vision produit et la roadmap.",
+        "Je gère le backlog, rédige les specs et pilote les sprints.",
+        "Je coordonne les équipes tech, design et métier.",
+        "Je mets en place vos rituels agiles et outils de pilotage.",
+        "Je m'adapte à votre stack et vos process existants."
       ]
     },
     "s2": {
-      "title": "Cadrage de projets IA",
-      "desc": "Du brief à la feuille de route technique — je structure vos projets IA pour maximiser les chances de succès.",
-      "for_who": "Équipes produit et DSI qui veulent intégrer l'IA dans leurs produits ou processus sans se perdre dans la complexité technique.",
+      "title": "Automatisations de process",
+      "desc": "J'automatise vos processus métier pour vous faire gagner du temps : de la simple connexion d'outils aux agents conversationnels WhatsApp en passant par l'interfaçage avec votre CRM ou ERP.",
+      "for_who": "Équipes qui perdent du temps sur des tâches manuelles et répétitives : onboarding, reporting, relances, synchronisation de données.",
       "includes": [
-        "Je cadre le périmètre fonctionnel et technique de votre projet IA.",
-        "Je sélectionne le bon modèle selon votre cas d'usage et vos contraintes.",
-        "Je rédige les specs, user stories et prompts de production.",
-        "Je prototype, teste et valide avant tout déploiement.",
-        "Je pilote le projet en coordination avec vos équipes."
+        "Je cartographie vos processus et identifie les gains d'automatisation.",
+        "Je déploie vos workflows sur N8N, Make ou Zapier.",
+        "Je connecte vos outils entre eux via API (CRM, ERP, bases de données…).",
+        "Je crée et connecte des agents WhatsApp à votre business.",
+        "J'assure le monitoring et la maintenance post-déploiement."
       ]
     },
     "s3": {
-      "title": "Product & Ops Management",
-      "desc": "Structurez votre vision produit, priorisez l'essentiel et coordonnez efficacement vos équipes.",
-      "for_who": "Fondateurs et directeurs de produit qui ont besoin d'un PM senior à temps partiel pour structurer leur roadmap et leurs opérations.",
+      "title": "Product Builder",
+      "desc": "Vous avez une idée et besoin d'un produit. Je vous accompagne de la conception au développement pour créer votre site vitrine, plateforme de réservation ou outil interne sur mesure.",
+      "for_who": "Entrepreneurs, hôteliers, restaurateurs et PME qui veulent une présence en ligne professionnelle ou un outil métier sur-mesure, livré rapidement.",
       "includes": [
-        "J'audite la maturité de votre organisation produit et ops.",
-        "Je structure votre roadmap et définis vos OKRs prioritaires.",
-        "Je mets en place vos rituels agiles et outils de pilotage.",
-        "Je coordonne les équipes tech, design et métier.",
-        "Je livre des dashboards de suivi pour vos décisions stratégiques."
+        "Je cadre le besoin et définis l'architecture du produit.",
+        "Je conçois l'expérience utilisateur et le design.",
+        "Je développe et livre un produit fonctionnel clé en main.",
+        "Je m'occupe du déploiement et de la mise en ligne.",
+        "Je vous forme à l'outil pour que vous soyez autonome."
       ]
     },
     "faq": {
       "badge": "Questions fréquentes",
-      "title": "Ce qu'on me demande souvent",
+      "title": "Ce qu'on me demande",
       "q1": "Comment se déroule une première mission ?",
-      "a1": "On commence par un call de 30 minutes gratuit pour comprendre votre contexte et vos besoins. Si le projet est aligné, je vous envoie une proposition avec le périmètre, les délais et le tarif. On démarre généralement sous une à deux semaines.",
-      "q2": "Vous travaillez en régie ou en forfait ?",
-      "a2": "Les deux selon les projets. Les missions courtes de cadrage sont souvent en forfait fixe. Les accompagnements longs (automation, PM) se font en régie journalière ou mensuelle. On définit ensemble le format le plus adapté.",
-      "q3": "Quel est votre TJM ?",
-      "a3": "Il varie selon la nature de la mission et le volume. Je vous communique mes tarifs lors du premier échange. Je privilégie les relations de long terme aux missions one-shot.",
-      "q4": "Travaillez-vous avec des équipes déjà structurées ?",
-      "a4": "Oui, c'est même là que j'apporte le plus de valeur. Je sais m'intégrer dans un environnement existant, travailler avec vos devs, designers et ops, sans friction."
+      "a1": "On commence par un call de 30 minutes gratuit pour comprendre votre contexte et vos besoins. Si le projet est aligné, je vous envoie une proposition avec le périmètre, les délais et le tarif.",
+      "q2": "Quel est votre TJM ?",
+      "a2": "Il varie selon la nature de la mission et le volume. Je vous communique mes tarifs lors du premier échange. Je privilégie les relations de long terme aux missions one-shot.",
+      "q3": "Travaillez-vous avec des équipes déjà structurées ?",
+      "a3": "Oui, c'est même là que j'apporte le plus de valeur. Je sais m'intégrer dans un environnement existant, travailler avec vos devs, designers et ops, sans friction."
     }
   },
   "experience": {

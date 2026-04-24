@@ -9,29 +9,29 @@
   },
   "home": {
     "hero": {
-      "badge": "Available for projects",
-      "title": "The strategist who automates.",
-      "title2": "The builder who structures.",
-      "subtitle": "I turn your processes and AI projects into systems that actually work.",
+      "badge": "Available for mission",
+      "title": "PM & Automations",
+      "title2": "Product Builder",
+      "subtitle": "I lead your roadmaps, automate your processes and build your tools, from brief to production.",
       "cta": "Book a call",
       "cta_secondary": "Discover my services"
     },
     "services": {
       "badge": "What I do",
-      "title": "My services",
-      "subtitle": "From idea to execution — three complementary expertises to accelerate your AI and ops projects.",
+      "title": "What I do",
+      "subtitle": "Three expertises. One point of contact.",
       "cta": "See all services",
-      "s1_title": "Automation & Workflows",
-      "s1_desc": "Connect your tools, automate repetitive tasks and free up operational time.",
-      "s2_title": "AI Project Scoping",
-      "s2_desc": "Specifications, model selection, test prototypes — I structure your AI projects from A to Z.",
-      "s3_title": "Product & Ops Management",
-      "s3_desc": "Product vision, prioritization, coordinating tech and business teams to deliver."
+      "s1_title": "Product Manager",
+      "s1_desc": "I embed into your team and lead your product.",
+      "s2_title": "Process Automation",
+      "s2_desc": "I connect your tools and automate your repetitive tasks.",
+      "s3_title": "Product Builder",
+      "s3_desc": "I design and build your website or custom tool, turnkey."
     },
     "cases": {
       "badge": "Projects",
       "title": "Recent projects",
-      "subtitle": "Concrete results, not just slides.",
+      "subtitle": "Concrete deliverables, not slides.",
       "cta": "See all projects"
     },
     "stack": {
@@ -40,17 +40,17 @@
       "subtitle": "The tools I use every day to build, automate and deliver."
     },
     "cta_section": {
-      "title": "Ready to get started?",
-      "subtitle": "Tell me about your project. We'll find the best approach together.",
-      "button": "Book a free slot"
+      "title": "Got a project in mind?",
+      "subtitle": "30 minutes is enough to review your context and see if I can help.",
+      "button": "Book a free call"
     }
   },
   "services": {
     "meta_title": "Services — Arthur Souchon",
-    "meta_desc": "Automation, AI scoping, product ops: discover Arthur Souchon's services.",
+    "meta_desc": "Product Manager, Automations, Product Builder: three freelance expertises at the service of your growth.",
     "badge": "Offerings",
     "title": "My services",
-    "subtitle": "Three complementary expertises. One point of contact.",
+    "subtitle": "Three expertises. One point of contact.",
     "for_who": "Who is it for?",
     "includes": "What's included",
     "cta": "Book a 30-min call",
@@ -60,52 +60,50 @@
       "subtitle": "Let's sync for 30 minutes: your context, your priorities, and whether I can genuinely help."
     },
     "s1": {
-      "title": "Automation & Workflows",
-      "desc": "Connect your tools, automate your tasks and reclaim hours of operational time every week.",
-      "for_who": "Startups and SMEs losing time on repetitive manual tasks — onboarding, reporting, data sync, notifications.",
+      "title": "Product Manager",
+      "desc": "I embed into your team and lead your product: roadmap, backlog, specs, coordination. Full-time or part-time, depending on your needs.",
+      "for_who": "Startups, SMBs and large companies that need a PM up and running quickly, without the constraints of a full recruitment process.",
       "includes": [
-        "I map your processes and identify automation opportunities.",
-        "I design and deploy your workflows on n8n, Make, or Zapier.",
-        "I connect your tools via API (CRM, ERP, databases…).",
-        "I train your teams and document every delivered flow.",
-        "I monitor and maintain everything post-deployment."
+        "I take ownership of the product vision and roadmap.",
+        "I manage the backlog, write specs and run sprints.",
+        "I coordinate tech, design and business teams.",
+        "I set up your agile rituals and management tools.",
+        "I adapt to your existing stack and processes."
       ]
     },
     "s2": {
-      "title": "AI Project Scoping",
-      "desc": "From brief to technical roadmap — I structure your AI projects to maximize success.",
-      "for_who": "Product teams and CTOs who want to integrate AI into their products or processes without getting lost in technical complexity.",
+      "title": "Process Automation",
+      "desc": "I automate your business processes to save you time: from simple tool connections to WhatsApp conversational agents, including CRM and ERP integrations.",
+      "for_who": "Teams losing time on manual, repetitive tasks: onboarding, reporting, follow-ups, data synchronisation.",
       "includes": [
-        "I scope the functional and technical boundaries of your AI project.",
-        "I select the right model based on your use case and constraints.",
-        "I write the specs, user stories, and production prompts.",
-        "I prototype, test, and validate before any deployment.",
-        "I manage the project in coordination with your teams."
+        "I map your processes and identify automation opportunities.",
+        "I deploy your workflows on N8N, Make or Zapier.",
+        "I connect your tools via API (CRM, ERP, databases…).",
+        "I build and connect WhatsApp agents to your business.",
+        "I handle monitoring and post-deployment maintenance."
       ]
     },
     "s3": {
-      "title": "Product & Ops Management",
-      "desc": "Structure your product vision, prioritize what matters and coordinate your teams effectively.",
-      "for_who": "Founders and product directors who need a senior PM part-time to structure their roadmap and operations.",
+      "title": "Product Builder",
+      "desc": "You have an idea and need a product. I guide you from design to development to build your showcase website, booking platform or custom internal tool.",
+      "for_who": "Entrepreneurs, hoteliers, restaurateurs and SMBs who want a professional online presence or a custom business tool, delivered fast.",
       "includes": [
-        "I audit the maturity of your product and ops organisation.",
-        "I structure your roadmap and define your priority OKRs.",
-        "I set up your agile rituals and management tools.",
-        "I coordinate tech, design, and business teams.",
-        "I deliver tracking dashboards for your strategic decisions."
+        "I scope the need and define the product architecture.",
+        "I design the user experience and visual identity.",
+        "I develop and deliver a fully functional turnkey product.",
+        "I handle deployment and go-live.",
+        "I train you on the tool so you're fully autonomous."
       ]
     },
     "faq": {
       "badge": "FAQ",
-      "title": "Questions I'm often asked",
+      "title": "What people ask me",
       "q1": "How does a first project work?",
-      "a1": "We start with a free 30-minute call to understand your context and needs. If the project is aligned, I send you a proposal with scope, timeline and rate. We usually start within one to two weeks.",
-      "q2": "Do you work on a time-and-materials or fixed-price basis?",
-      "a2": "Both, depending on the project. Short scoping missions are often fixed-price. Longer engagements (automation, PM) are on a daily or monthly rate. We define the best format together.",
-      "q3": "What is your day rate?",
-      "a3": "It varies depending on the nature and volume of the mission. I'll share my rates during our first call. I prefer long-term relationships over one-shot projects.",
-      "q4": "Do you work with already structured teams?",
-      "a4": "Yes, and that's actually where I add the most value. I know how to integrate into an existing environment, work with your devs, designers and ops, without friction."
+      "a1": "We start with a free 30-minute call to understand your context and needs. If the project is a fit, I send you a proposal with the scope, timeline and pricing.",
+      "q2": "What is your day rate?",
+      "a2": "It varies depending on the nature and volume of the mission. I'll share my rates during our first call. I prefer long-term relationships over one-shot projects.",
+      "q3": "Do you work with already structured teams?",
+      "a3": "Yes, and that's actually where I add the most value. I know how to integrate into an existing environment, work with your devs, designers and ops, without friction."
     }
   },
   "experience": {
