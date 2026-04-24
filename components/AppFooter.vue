@@ -24,8 +24,9 @@ const navLinks = computed(() => [
             <img src="/favicon.png" alt="Arthur Souchon" class="w-8 h-[39px] rounded-lg object-cover" />
             <span class="font-semibold text-slate-900 dark:text-slate-100">Arthur Souchon</span>
           </div>
-          <p class="text-sm text-slate-500 dark:text-slate-400 leading-relaxed">
-            {{ t('footer.tagline') }}
+          <p class="text-lg font-bold text-slate-900 dark:text-slate-100 leading-snug">
+            {{ t('home.hero.title') }}<br />
+            <span class="gradient-text">{{ t('home.hero.title2') }}</span>
           </p>
           <div class="flex items-center gap-3">
             <a
