@@ -8,7 +8,6 @@ useSeoMeta({
   ogDescription: () => t('realisations.meta_desc'),
 })
 
-defineOgImage({ component: 'Default' })
 
 const cases = ['c1', 'c2', 'c3', 'c4']
 

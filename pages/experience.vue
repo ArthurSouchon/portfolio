@@ -8,7 +8,6 @@ useSeoMeta({
   ogDescription: () => t('experience.meta_desc'),
 })
 
-defineOgImage({ component: 'Default' })
 
 const jobs = ['j1', 'j2', 'j3', 'j4', 'j5']
 

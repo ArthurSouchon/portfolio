@@ -9,7 +9,6 @@ useSeoMeta({
   ogDescription: () => t('meta.home_desc'),
 })
 
-defineOgImage({ component: 'Default' })
 
 const tools = [
   { name: 'n8n', color: 'text-orange-400' },
