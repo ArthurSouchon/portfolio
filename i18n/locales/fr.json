@@ -46,8 +46,8 @@
     }
   },
   "services": {
-    "meta_title": "Services — Arthur Souchon",
-    "meta_desc": "Product Manager, Automations, Product Builder : trois expertises freelance au service de votre croissance.",
+    "meta_title": "Services - Arthur Souchon",
+    "meta_desc": "Product Manager, Automatisations de process, Product Builder. Missions freelance pour startups, PME et grands groupes.",
     "badge": "Offres",
     "title": "Mes services",
     "subtitle": "Trois expertises. Un seul interlocuteur.",
@@ -107,8 +107,8 @@
     }
   },
   "experience": {
-    "meta_title": "Expérience — Arthur Souchon",
-    "meta_desc": "Parcours professionnel d'Arthur Souchon : freelance IA, product manager, automation ops.",
+    "meta_title": "Expérience - Arthur Souchon",
+    "meta_desc": "Parcours d'Arthur Souchon : API Product Owner chez Numberly, product management, automatisation et création de produits.",
     "badge": "Parcours",
     "title": "Mon expérience",
     "subtitle": "Cinq expériences à la croisée du produit, de la tech et de la data.",
@@ -189,8 +189,8 @@
     }
   },
   "realisations": {
-    "meta_title": "Réalisations — Arthur Souchon",
-    "meta_desc": "Cas clients concrets : automation, IA, product ops. Problème → Solution → Impact.",
+    "meta_title": "Réalisations - Arthur Souchon",
+    "meta_desc": "Projets concrets : documentation API, canal WhatsApp, automatisation de relances, portfolio. Problème, solution, impact.",
     "badge": "Projets",
     "title": "Réalisations",
     "subtitle": "Des projets concrets, du problème au résultat.",
@@ -266,8 +266,8 @@
     }
   },
   "univers": {
-    "meta_title": "Univers — Arthur Souchon",
-    "meta_desc": "Au-delà du boulot : padel compétitif, champion du monde esport, football et organisation d'événements.",
+    "meta_title": "Univers - Arthur Souchon",
+    "meta_desc": "Au-delà du boulot : padel compétitif, champion du monde Dofus 2023, football et organisation d'événements.",
     "badge": "Au-delà du boulot",
     "title": "Mon univers",
     "subtitle": "Ce que je fais à côté",
@@ -371,8 +371,8 @@
     "made_with": "Fait avec"
   },
   "meta": {
-    "home_title": "Arthur Souchon — Freelance IA & Automation",
-    "home_desc": "Freelance spécialisé en IA, automation et product ops. Je transforme vos process en systèmes qui tournent vraiment.",
+    "home_title": "Arthur Souchon - PM & Automation",
+    "home_desc": "API Product Owner chez Numberly. Missions freelance en Product Management, automatisations de process et création de produits digitaux.",
     "og_image": "/og-image.png"
   }
 }
