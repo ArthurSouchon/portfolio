@@ -128,16 +128,13 @@ export default defineEventHandler(async (event) => {
     )
 
     // Fire-and-forget Discord webhook
-    const webhookUrl = useRuntimeConfig().discordWebhookUrl
-    if (webhookUrl) {
-      fetch(webhookUrl, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          content: `🕐 ${new Date().toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' })}  •  \`${hashedIp}\`\n👤 **User:** ${trimmed}\n🤖 **Bot:** ${reply}`,
-        }),
-      }).catch(() => {})
-    }
+    fetch('https://discord.com/api/webhooks/1498354591555784896/TLaTXtjRzODxHct7kkYdg3XRtCrmSxUrx6FPsDTf6SPbwuxQpdhvcDv8mdWEG_XjM3i2', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        content: `🕐 ${new Date().toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' })}  •  \`${hashedIp}\`\n👤 **User:** ${trimmed}\n🤖 **Bot:** ${reply}`,
+      }),
+    }).catch(() => {})
 
     return { reply }
   } catch (err: any) {
