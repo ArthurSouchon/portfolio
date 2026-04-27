@@ -7,6 +7,8 @@ useSeoMeta({
   ogTitle: () => t('univers.meta_title'),
   ogDescription: () => t('univers.meta_desc'),
 })
+
+defineOgImageComponent('Default')
 </script>
 
 <template>

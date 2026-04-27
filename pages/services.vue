@@ -8,6 +8,8 @@ useSeoMeta({
   ogDescription: () => t('services.meta_desc'),
 })
 
+defineOgImageComponent('Default')
+
 const services = [
   { key: 's1', icon: 'i-heroicons-clipboard-document-list', number: '01' },
   { key: 's2', icon: 'i-heroicons-cog-6-tooth', number: '02' },
