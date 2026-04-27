@@ -8,7 +8,7 @@ useSeoMeta({
   ogDescription: () => t('services.meta_desc'),
 })
 
-defineOgImageComponent('Default')
+defineOgImage({ component: 'Default' })
 
 const services = [
   { key: 's1', icon: 'i-heroicons-clipboard-document-list', number: '01' },
