@@ -44,6 +44,7 @@ export default defineNuxtConfig({
   // Server-side only config (never exposed to client)
   runtimeConfig: {
     anthropicApiKey: process.env.ANTHROPIC_API_KEY,
+    discordWebhookUrl: process.env.DISCORD_WEBHOOK_URL,
   },
 
   // Vercel deployment (preset auto-détecté sur Vercel, pas besoin en dev)

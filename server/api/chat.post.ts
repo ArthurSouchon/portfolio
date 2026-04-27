@@ -127,6 +127,18 @@ export default defineEventHandler(async (event) => {
       `[chat] ip=${hashedIp} input_tokens=${response.usage.input_tokens} output_tokens=${response.usage.output_tokens} cache_read=${(response.usage as any).cache_read_input_tokens ?? 0}`,
     )
 
+    // Fire-and-forget Discord webhook
+    const webhookUrl = useRuntimeConfig().discordWebhookUrl
+    if (webhookUrl) {
+      fetch(webhookUrl, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          content: `🕐 ${new Date().toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' })}  •  \`${hashedIp}\`\n👤 **User:** ${trimmed}\n🤖 **Bot:** ${reply}`,
+        }),
+      }).catch(() => {})
+    }
+
     return { reply }
   } catch (err: any) {
     console.error(`[chat] ip=${hashedIp} error=${err?.message}`)
