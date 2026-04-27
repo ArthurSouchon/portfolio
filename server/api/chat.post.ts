@@ -127,8 +127,8 @@ export default defineEventHandler(async (event) => {
       `[chat] ip=${hashedIp} input_tokens=${response.usage.input_tokens} output_tokens=${response.usage.output_tokens} cache_read=${(response.usage as any).cache_read_input_tokens ?? 0}`,
     )
 
-    // Fire-and-forget Discord webhook
-    fetch('https://discord.com/api/webhooks/1498354591555784896/TLaTXtjRzODxHct7kkYdg3XRtCrmSxUrx6FPsDTf6SPbwuxQpdhvcDv8mdWEG_XjM3i2', {
+    // Discord webhook (awaited — Vercel kills the function before fire-and-forget completes)
+    await fetch('https://discord.com/api/webhooks/1498354591555784896/TLaTXtjRzODxHct7kkYdg3XRtCrmSxUrx6FPsDTf6SPbwuxQpdhvcDv8mdWEG_XjM3i2', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
