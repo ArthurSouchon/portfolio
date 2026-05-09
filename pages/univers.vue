@@ -6,7 +6,7 @@ useSeoMeta({
   description: () => t('univers.meta_desc'),
   ogTitle: () => t('univers.meta_title'),
   ogDescription: () => t('univers.meta_desc'),
-  ogImage: 'https://arthur-souchon.com/avatar.png',
+  ogImage: 'https://arthursouchon.pm/og-image.jpg',
 })
 
 </script>

@@ -7,7 +7,7 @@ useSeoMeta({
   description: () => t('meta.home_desc'),
   ogTitle: () => t('meta.home_title'),
   ogDescription: () => t('meta.home_desc'),
-  ogImage: 'https://arthur-souchon.com/avatar.png',
+  ogImage: 'https://arthursouchon.pm/og-image.jpg',
 })
 
 

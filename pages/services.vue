@@ -6,7 +6,7 @@ useSeoMeta({
   description: () => t('services.meta_desc'),
   ogTitle: () => t('services.meta_title'),
   ogDescription: () => t('services.meta_desc'),
-  ogImage: 'https://arthur-souchon.com/avatar.png',
+  ogImage: 'https://arthursouchon.pm/og-image.jpg',
 })
 
 

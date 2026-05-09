@@ -37,8 +37,8 @@ export default defineNuxtConfig({
 
   // Sitemap
   site: {
-    url: 'https://arthur-souchon.com',
-    name: 'Arthur Souchon — Freelance IA & Automation',
+    url: 'https://arthursouchon.pm',
+    name: 'Arthur Souchon - PM & Product Builder',
   },
 
   // Server-side only config (never exposed to client)
@@ -53,12 +53,17 @@ export default defineNuxtConfig({
   // App head
   app: {
     head: {
-      title: 'Arthur Souchon — Freelance IA & Automation',
+      title: 'Arthur Souchon - PM & Product Builder',
       htmlAttrs: { lang: 'fr' },
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
         { name: 'theme-color', content: '#020617' },
+        { property: 'og:type', content: 'website' },
+        { property: 'og:url', content: 'https://arthursouchon.pm' },
+        { property: 'og:image', content: 'https://arthursouchon.pm/og-image.jpg' },
+        { property: 'og:image:width', content: '1200' },
+        { property: 'og:image:height', content: '627' },
       ],
       link: [
         { rel: 'icon', type: 'image/png', href: '/favicon.png' },
